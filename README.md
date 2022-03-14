@@ -1,2 +1,2 @@
-# My-first-Repo
-My first Repo
+# Send Mail Using Python
+Send Mail Using Python
