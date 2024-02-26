@@ -30,7 +30,7 @@ Run the script `main.py` with the following command:
 python main.py "sender@example.com" "receiver@example.com" "password_sender" "Your Subject" "Your Message Body"
 ```
 
-Replace `recipient@example.com` with the recipient's email address, `"Your Subject"` with the subject of the email, and `"Your Message Body"` with the content of the email message.
+Replace `recipient@example.com` with the recipient's email address, `sendert@example.com` with the sender's email address, `"Your Subject"` with the subject of the email, and `"Your Message Body"` with the content of the email message.
 
 You will be prompted to enter your email credentials (username and password) for authentication.
 
